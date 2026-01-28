@@ -14,4 +14,4 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Print message hiiiiii
-        run: echo "CI Pipeline executed successfully"
+        run: echo "CI Pipeline executed successfully done"
