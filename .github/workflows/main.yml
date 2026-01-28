@@ -13,5 +13,5 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Print message
+      - name: Print message hiiiiii
         run: echo "CI Pipeline executed successfully"
